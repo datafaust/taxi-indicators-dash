@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/taxi-indicators-dash/precache-manifest.cbd3ebd2d6540f7492beef7b17ab3eaf.js"
+  "/taxi-indicators-dash/precache-manifest.3fa298928a54979dad81b9048bb0b06b.js"
 );
 
 self.addEventListener('message', (event) => {

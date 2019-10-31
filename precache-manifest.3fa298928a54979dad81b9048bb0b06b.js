@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59a9e28d3adf6d8df642ad2eba560470",
+    "revision": "094d0366e906ba224784e3aab1439993",
     "url": "/taxi-indicators-dash/index.html"
   },
   {
-    "revision": "1636f00234c072d6ca5a",
+    "revision": "e7f9ff2febdc0ed661f9",
     "url": "/taxi-indicators-dash/static/css/main.fdbf123e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taxi-indicators-dash/static/js/2.edd98bed.chunk.js"
   },
   {
-    "revision": "1636f00234c072d6ca5a",
-    "url": "/taxi-indicators-dash/static/js/main.eeebc612.chunk.js"
+    "revision": "e7f9ff2febdc0ed661f9",
+    "url": "/taxi-indicators-dash/static/js/main.206c915b.chunk.js"
   },
   {
     "revision": "89d2955cff54c12f3baa",
