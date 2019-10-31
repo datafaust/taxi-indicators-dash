@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/taxi-indicators-dash/static/css/main.fdbf123e.chunk.css",
+    "main.js": "/taxi-indicators-dash/static/js/main.eeebc612.chunk.js",
+    "main.js.map": "/taxi-indicators-dash/static/js/main.eeebc612.chunk.js.map",
+    "runtime-main.js": "/taxi-indicators-dash/static/js/runtime-main.c607ddf5.js",
+    "runtime-main.js.map": "/taxi-indicators-dash/static/js/runtime-main.c607ddf5.js.map",
+    "static/js/2.edd98bed.chunk.js": "/taxi-indicators-dash/static/js/2.edd98bed.chunk.js",
+    "static/js/2.edd98bed.chunk.js.map": "/taxi-indicators-dash/static/js/2.edd98bed.chunk.js.map",
+    "index.html": "/taxi-indicators-dash/index.html",
+    "precache-manifest.cbd3ebd2d6540f7492beef7b17ab3eaf.js": "/taxi-indicators-dash/precache-manifest.cbd3ebd2d6540f7492beef7b17ab3eaf.js",
+    "service-worker.js": "/taxi-indicators-dash/service-worker.js",
+    "static/css/main.fdbf123e.chunk.css.map": "/taxi-indicators-dash/static/css/main.fdbf123e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c607ddf5.js",
+    "static/js/2.edd98bed.chunk.js",
+    "static/css/main.fdbf123e.chunk.css",
+    "static/js/main.eeebc612.chunk.js"
+  ]
+}
